@@ -24,10 +24,10 @@
 ## Software needed to run this project include Python, Anaconda/ Pandas, Jupyter Lab, Pyviz. Installation instructions for these programs can be found in the following links.   
 
   
-[Python](https://www.python.org/downloads/)
-[Pandas Anaconda](https://anaconda.org/anaconda/pandas)
-[Jupyter lab](https://jupyter.org/install)
-[Pyviz installation video](https://youtu.be/ousjjkD4JbA)   
+* [Python](https://www.python.org/downloads/)
+* [Pandas Anaconda](https://anaconda.org/anaconda/pandas)
+* [Jupyter lab](https://jupyter.org/install)
+* [Pyviz installation video](https://youtu.be/ousjjkD4JbA)   
 
 
 ## How to Use the Project:
@@ -35,10 +35,10 @@
 You will need an Alpaca_trade_api
 
 ## Collaborators for this project include:   
-github.com/seane13  
-github.com/JosinaB
-github.com/fsalomon496
-github.com/Maurolp15
+* github.com/seane13  
+* github.com/JosinaB
+* github.com/fsalomon496
+* github.com/Maurolp15
 
 Other Resources and contributors include:  
 [UM fintech](https://bootcamp.miami.edu/fintech/)
